@@ -1,7 +1,7 @@
 BookSahreApp is an online Book Sharing Web Application for book enthusiasts!
 To run this App on your machine please follow below steps.
 
-1. Pull the current Git repo "https://github.com/SKM5/BookShareApp" or download the zip folder
+1. Pull the current "[Git Repo](https://github.com/SKM5/FSAD_BookShare)" or download the zip folder
 2. Install Visual Studio code for building application, install node JS, install MongoDB etc.
 3. As we are using React Js for fronend , for backend Express Js and Node Js, and MongoDB as a Database
 4. Open terminal in split windows and cd to .\Frontend folder in one terminal and cd to .\Backend folder in another terminal
